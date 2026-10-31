@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anthony0201j.github.io/shadow-press/sitemap.xml
